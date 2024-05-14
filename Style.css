@@ -1,0 +1,25 @@
+.test_image_and_result 
+{
+    background-color: grey;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+.col-sm-4 col-xs-12
+{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+img
+{
+    width: 20%;
+    padding-top: 100px;
+}
+.img-responsive
+{
+    height: 300px;
+}
+.mini_result
+{
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
